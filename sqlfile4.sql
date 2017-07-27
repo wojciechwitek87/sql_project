@@ -1,0 +1,10 @@
+insert into event_1 values (111111, 'Srodmiescie','2017-07-29 17:30:00' , '2017-07-29 18:30:00', '2', '1'); 
+insert into event_1 values (222222, 'Park w Radomiu','2017-07-29 14:0:00' , '2017-07-29 16:30:00', '22', '2'); 
+insert into event_1 values (333333, 'Kujawt','2017-07-29 20:30:00' , '2017-07-30 21:30:00', '4', '3'); 
+insert into event_1 values (444444, 'Szczesliwice','2017-07-30 22:30:00 ', '2017-07-31 02:00:00', '2', '1'); 
+insert into event_1 values (555555, 'Okecie','2017-07-29 14:30:00' , '2017-07-29 15:30:00 ','2', '3'); 
+insert into event_1 values (666666, 'Park Czechowicki','2017-07-29 12:00:00' , '2017-07-31 14:00:00', '4', '2'); 
+insert into event_1 values (777777, 'Szczesliwice','2017-07-29 18:30:00' , '2017-07-31 20:00:00', '3', '1'); 
+insert into event_1 values (888888, 'Ochota','2017-07-29 18:00:00' , '2017-07-31 21:00:00', '3', '2'); 
+insert into event_1 values (999999, 'Pola Mokotowskie','2017-07-29 18:30:00' , '2017-07-31 19:00:00 ','3', '2'); 
+insert into event_1 values (122222, 'Szczesliwice','2017-07-29 18:30:00' , '2017-07-31 20:00:00', '3', '1'); 

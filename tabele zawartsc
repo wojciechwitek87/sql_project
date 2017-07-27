@@ -1,0 +1,54 @@
+create table event_1( 
+orgenaze_u int(6), 
+ev_place varchar(50) not null, 
+ev_start datetime not null,
+ev_end datetime not null,
+no_of_members int,
+difficulty_lvl varchar(10) 
+
+>>>>user_1
+insert into user_1 values (111111, 'Karol1', 'POL' , 'Mazowieckie', 'Warszawa', 3, 'm'); 
+insert into user_1 values (222222, 'AnniaSport', 'POL' , 'Mazowieckie', 'Radom', 4, 'k'); 
+insert into user_1 values (333333, 'Ronaldinio', 'POL' , 'Kujawsko-Pomorskie', 'Bydgoszcz', 1, 'm'); 
+insert into user_1 values (444444, 'AtomowyTomek', 'POL' , 'Mazowieckie', 'Warszawa', 5, 'm'); 
+insert into user_1 values (555555, 'Siatkara', 'POL' , 'Mazowieckie', 'Piaseczno', 1, 'k'); 
+insert into user_1 values (666666, 'noga', 'POL' , 'Mazowieckie', 'Warszawa', 2, 'm'); 
+insert into user_1 values (777777, 'Zaklina', 'POL' , 'Mazowieckie', 'Warszawa', 2, 'k'); 
+insert into user_1 values (888888, 'pilkarz666', 'POL' , 'Mazowieckie', 'Warszawa', 5, 'm'); 
+insert into user_1 values (999999, 'Karol1na', 'POL' , 'Mazowieckie', 'Radom', 3, 'k'); 
+insert into user_1 values (122222, 'Zbik', 'POL' , 'Mazowieckie', 'Warszawa', 4, 'm'); 
+insert into user_1 values (112222, 'Pogram', 'POL' , 'Mazowieckie', 'Warszawa', 5, 'm'); 
+insert into user_1 values (111222, 'Ivan', 'POL' , 'Malopolskie', 'Krakow', 3, 'm');
+
+>>>>event_1
+insert into event_1 values (111111, 'Srodmiescie','2017-07-29 17:30:00' , '2017-07-29 18:30:00', '2', '1'); 
+insert into event_1 values (222222, 'Park w Radomiu','2017-07-29 14:0:00' , '2017-07-29 16:30:00', '22', '2'); 
+insert into event_1 values (333333, 'Pola Mokotowskie','2017-07-29 20:30:00' , '2017-07-30 21:30:00', '4', '3'); 
+insert into event_1 values (444444, 'Szczesliwice','2017-07-30 22:30:00 ', '2017-07-31 02:00:00', '2', '1'); 
+insert into event_1 values (555555, 'Okecie','2017-07-29 14:30:00' , '2017-07-29 15:30:00 ','2', '3'); 
+insert into event_1 values (666666, 'Park Czechowicki','2017-07-29 12:00:00' , '2017-07-31 14:00:00', '4', '2'); 
+insert into event_1 values (777777, 'Szczesliwice','2017-07-29 18:30:00' , '2017-07-31 20:00:00', '3', '1'); 
+insert into event_1 values (888888, 'Ochota','2017-07-29 18:00:00' , '2017-07-31 21:00:00', '3', '2'); 
+insert into event_1 values (999999, 'Pola Mokotowskie','2017-07-29 18:30:00' , '2017-07-31 19:00:00 ','3', '2'); 
+insert into event_1 values (122222, 'Szczesliwice','2017-07-29 18:30:00' , '2017-07-31 20:00:00', '3', '1'); 
+
+
+>>>>>place 
+create table place (
+name varchar(50)not null, 
+wsp_1 int,
+wsp_2 int
+
+insert into place values ('Srodmiescie','52.223361', '21.025443'); 
+insert into place values ('Park w Radomiu','51.398564', '21.158063'); 
+insert into place values ('Pola Mokotowskie',''52.209491', '20.988241'); 
+insert into place values ('Park Czechowicki','52.191466', '20.885016'); 
+insert into place values ('Ochota','52.223361', '21.025443'); 
+insert into place values ('Szczesliwice','52.208718', '20.961908'); <<<
+insert into place values ('Szczesliwice','52.223361', '21.025443'); 
+insert into place values ('Szczesliwice','52.223361', '21.025443'); 
+
+
+
+
+userow >>> 12 
